@@ -1,2 +1,3 @@
-# clone_home_insta
- Clone da tela de login do instagram.
+Clone da tela do login do instagram.
+
+Feito no curso de formação front-end do Matheus Battisti.
